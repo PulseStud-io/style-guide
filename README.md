@@ -1,6 +1,6 @@
 # Fansamble Style Guide
 
-A cyberpunk-inspired design system for Fansamble, featuring interactive audio visualization and a cohesive component library.
+A design system for Fansamble, featuring interactive audio visualization and a cohesive component library.
 
 ## Features
 
