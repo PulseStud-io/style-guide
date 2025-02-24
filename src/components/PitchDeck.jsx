@@ -199,7 +199,19 @@ const PitchDeck = () => {
           'Clear path to $50K MRR milestone'
         ]
       }
-    }
+    },
+    {
+      id: 'demo',
+      title: 'Demo',
+      content: {}
+    },
+    {
+        id: 'thankyou',
+        title: 'Thank You',
+        content: {
+          
+        }
+      }
   ];
 
   const getCurrentSlideBullets = () => {
